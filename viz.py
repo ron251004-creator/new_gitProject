@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 # נתונים לדוגמה לגרף
-products = ['תפוח', 'בננה', 'אגס', 'תפוז']
+products = ['תפוח', 'בננה', 'אננס', 'תפוז']
 quantities = [50, 80, 30, 60]
 
 plt.bar(products, quantities, color='skyblue')
