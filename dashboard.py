@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # כותרת הדאשבורד
-st.title("דאשבורד קטן לדוגמה")
+st.title("ron's dashboard")
 
 # יצירת נתונים לדוגמה
 data = {
